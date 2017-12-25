@@ -1,5 +1,5 @@
 # Color-Guessing-Game
-RGB Color Guessing Game.
+RGB Color Guessing Game // Udemy: The Webdeveloper Bootcamp - Colt Steel
 
 ![SCREENSHOT](http://oi67.tinypic.com/345lj0g.jpg)
 ![SCREENSHOT](http://oi68.tinypic.com/50lfzc.jpg)
